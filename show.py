@@ -1,0 +1,10 @@
+l=['zhangchao', '张超', 2]
+l.append('3')
+print(l)
+l.insert(2,'zhangchao1')
+print(l)
+l.pop()
+print(l)
+l.pop()
+print(l)
+print (l[0])
